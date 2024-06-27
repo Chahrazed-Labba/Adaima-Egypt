@@ -1,0 +1,316 @@
+Sepult;Periode_5_label;period_17_labels;classe_age;Position_corps;Orientation_tete;Orientation_Face;Position_mains;Nb_actes;Mobilier;Nb_Mobilier;mob_tete;mob_membre_inf;mob_thorax;mob_dos;mob_devant_corps;mob_contre_jarre;mob_dans_jarre;mob_exterieur_coffre;mob_dans_coffre;mob_contre_paroi;mob_dans_remplissage;Signalisation;pelle ;Ornement ;Nb_Ornement;orn_Porte;orn_Nonporte;Coquillage;Aspatharia_unio;Perles;Fard;Outils;Prosterne;Decoupe
+399;South sector;IIIA2-IIID;1_5;Assis;NO;sol;Jambes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+409;IIID/3e dyn;IIID/3e dyn;1_5;Assis;S;NO;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0
+448;South sector;IIIA2;1_5;G;SE;S;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+455;IIID/3e dyn;IIID/3e dyn;1_5;D;E;NO;tete;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+457;IIID/3e dyn;IIID/3e dyn;1_5;Dos;SO;ciel;asymetrique_jambe_thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+478;IIID/3e dyn;IIID/3e dyn;1_5;G;SE;N;tete;4;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+480;IIID/3e dyn;IIID/3e dyn;1_5;Dos;E;N;tete;3;1;7;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+494;IIID/3e dyn;IIID/3e dyn;1_5;G;E;sol;Jambes;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0;0
+498;South sector;IIIA2;1_5;G;SE;Sol;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;1;0;0;0
+500;South sector;IIIA2;1_5;Ventre;SE;Sol;asymetrique_thorax_tete ;5;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+504;South sector;IIIA1-A2;1_5;Ventre;S;Sol;tete;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+506;South sector;IIIA2;1_5;G;SE;Sol;asymetrique_thorax_tete ;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+507;South sector;IID-IIIA1;1_5;G;SE;Sol;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+508;South sector;IIIB;1_5;G;SE;Sol;tete;3;1;3;1;0;1;0;0;0;0;0;0;0;1;1;0;1;7;1;0;1;0;1;0;1;0;0
+510;South sector;IIIA2;1_5;G;S;O;Jambes;2;1;4;1;0;0;0;0;0;0;0;1;0;0;0;0;1;4;1;1;1;0;1;1;0;0;0
+512;South sector;IIIA1-A2;1_5;D;NO;S;tete;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+516;South sector;IIIA2;1_5;G;SE;O;tete;2;1;3;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+518;South sector;IIIA2;1_5;G;E;SO;asymetrique_jambe_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+522;South sector;IIC-IIIA1;1_5;D;SE;NE;Jambes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+524;South sector;IIIA2;1_5;G;SE;O;tete;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;1;0;0;0;0
+528;South sector;IIIA2;1_5;G;SE;Sol;tete;3;1;2;0;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;1;0;1;1;0;0
+530;South sector;IID-IIIA2;1_5;G;S;O;tete;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+532;South sector;IIIA1;1_5;Assis;N;SE;thorax;5;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;1;0;0;0;0
+533;South sector;IIIA2;1_5;G;S;O;tete;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;1;4;1;0;0;0;1;1;0;0;0
+535;South sector;IIIA2;1_5;Ventre;SE;Sol;tete;5;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+537;South sector;IIIA1-A2;1_5;G;SE;O;asymetrique_jambe_tete ;4;1;2;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+539;South sector;IIIA1-A2;1_5;Dos;SE;N;Jambes;3;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+540;South sector;IIIA1;1_5;Dos;SE;Sol;Jambes;3;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+541;South sector;IIIA1;1_5;Ventre;S;S;asymetrique_jambe_thorax;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+544;South sector;IIIC;1_5;G;SE;O;thorax;3;1;5;1;1;0;0;1;0;0;0;0;0;0;0;0;1;3;1;0;0;0;1;1;0;0;0
+546;South sector;IIIA2;1_5;G;S;O;Jambes;2;1;5;0;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+549;South sector;IIIA1;1_5;Dos;S;NO;Jambes;3;1;5;1;1;0;0;0;0;0;0;0;0;0;0;0;1;7;1;1;1;0;1;1;1;0;0
+550;South sector;IIIA1;1_5;D;S;E;thorax;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+551;South sector;IIIA1;1_5;G;SE;O;tete;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+552;South sector;IIIA2;1_5;G;SE;NO;Jambes;4;1;4;1;1;0;0;0;0;0;0;0;0;1;0;0;1;11;0;1;0;0;1;1;0;0;0
+558;South sector;IIIA2;1_5;G;SE;SO;tete;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+559;South sector;IIIA2;1_5;Ventre;SE;Sol;thorax;3;1;7;1;1;1;0;1;0;0;0;0;0;0;0;1;1;13;1;0;0;0;1;1;1;0;0
+560;South sector;IIIA1-A2;1_5;G;SE;NO;tete;3;1;1;0;0;1;0;0;0;0;0;0;0;0;1;0;1;2;1;0;0;0;1;1;0;0;0
+565;South sector;IIIA2;1_5;G;SE;O;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+570;South sector;IIIA1;1_5;G;SE;N;tete;2;1;3;0;1;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;1;1;0;0
+571;South sector;IIIA1-A2;1_5;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+573;South sector;IIIA1;1_5;G;S;Sol;tete;2;1;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0
+577;South sector;IIIA1-A2;1_5;G;SE;Sol;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+578;South sector;IID-IIIA1;1_5;G;E;O;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0
+579;South sector;IID-IIIA1;1_5;G;SE;O;asymetrique_jambe_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+581;South sector;IIIA1;1_5;G;SE;Sol;asymetrique_jambe_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+582;South sector;IID;1_5;G;E;S;asymetrique_jambe_thorax;3;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+583;South sector;IIIA1;1_5;G;SE;Sol;Jambes;2;1;3;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+584;South sector;IIIA1;1_5;G;NE;Sol;thorax;4;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+590;South sector;IIIA1-A2;1_5;D;S;E;asymetrique_jambe_thorax;3;1;3;1;0;0;0;0;1;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+591;South sector;IIIA1;1_5;D;NE;O;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+592;South sector;IID;1_5;G;NO;E;tete;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;1;0;0;0;0
+593;South sector;IID-IIIA1;1_5;G;SE;sol;asymetrique_jambe_tete ;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+597;South sector;IIIA1;1_5;G;SE;Sol;tete;3;1;4;1;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+601;South sector;IIIA1-A2;1_5;G;SE;O;Jambes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+604;South sector;IIIA1;1_5;G;SE;SO;asymetrique_thorax_tete ;2;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+605;South sector;IIIA1;1_5;G;S;S;thorax;3;1;5;0;0;0;0;0;0;0;0;0;0;0;5;0;1;5;1;0;0;0;0;1;0;0;0
+607;South sector;IIIA2;1_5;G;SE;O;asymetrique_jambe_tete ;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+608;South sector;IIIA1;1_5;G;SE;O;tete;5;1;8;1;0;0;1;0;0;0;0;0;0;1;0;0;1;15;1;0;0;0;1;0;0;0;0
+609;South sector;IID;1_5;G;NE;S;asymetrique_jambe_thorax;3;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+618;South sector;IIIA1;1_5;Ventre;SE;NE;asymetrique_jambe_thorax;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+620;South sector;IIIA2;1_5;Ventre;SE;Sol;tete;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+625;South sector;IIIA1;1_5;G;SO;N;tete;3;1;2;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0
+626;South sector;IIIA1;1_5;G;SO;Sol;Jambes;4;1;3;0;0;0;0;0;1;1;0;0;0;0;0;0;1;4;0;1;0;0;1;0;0;0;0
+629;South sector;IID-IIIA1;1_5;G;SE;O;tete;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+630;South sector;IIIA2;1_5;D;SE;Sol;thorax;4;1;2;0;0;1;0;0;1;0;0;0;0;0;0;0;1;3;1;0;0;0;0;1;0;0;0
+633;South sector;IIIA1;1_5;G;S;Sol;Jambes;4;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;6;1;0;0;0;0;0;0;0;0
+636;South sector;IIIA2;1_5;G;SE;O;tete;2;1;4;1;0;1;0;0;0;0;0;0;0;0;0;0;1;2;0;1;0;0;1;0;0;0;0
+637;South sector;IIIA2;1_5;Assis;SO;Sol;thorax;4;1;6;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2;1;0;0;0;1;1;0;0;0
+638;South sector;IIIA1;1_5;G;SE;Sol;asymetrique_thorax_tete ;4;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+644;South sector;IIIA1;1_5;G;SE;O;tete;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;10;1;0;0;0;0;0;0;0;0
+647;South sector;IIIA2;1_5;Ventre;SE;Sol;asymetrique_jambe_thorax;2;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+648;South sector;IIIA1-A2;1_5;D;NO;SO;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+649;South sector;IIIA1-A2;1_5;G;SE;Sol;asymetrique_thorax_tete ;5;1;2;0;0;1;0;0;1;0;0;0;0;0;0;1;1;1;1;0;0;0;0;1;0;0;0
+652;South sector;IIIA2;1_5;G;S;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;1;0;0;0;0
+653;South sector;IIIA2-IIIC;1_5;G;SE;NO;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+655;South sector;IIIA2;1_5;G;SE;O;asymetrique_jambe_tete ;3;1;2;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0
+656;South sector;IIIA1-A2;1_5;G;SE;Sol;tete;2;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;1;6;1;1;0;0;1;0;0;0;0
+662;South sector;IIIA1-A2;1_5;G;SE;O;tete;4;1;3;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+663;South sector;IIIA1;1_5;G;SE;O;tete;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+664;South sector;IIIA1;1_5;G;SE;O;tete;3;1;3;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+665;South sector;IIIA1;1_5;Dos;SE;Sol;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+666;South sector;IIIA1-A2;1_5;G;SE;Sol;tete;3;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+667;South sector;IIIA1;1_5;G;S;NO;asymetrique_thorax_tete ;2;1;3;1;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;1;1;0;0;0
+669;South sector;IIIA1;1_5;G;O;NO;thorax;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;1;0;0;1;0;0;0;0
+671;South sector;IID;1_5;G;S;N;Jambes;3;1;2;1;0;0;1;0;0;0;0;0;0;0;1;0;1;2;1;0;0;1;0;1;0;0;0
+674;South sector;IID;1_5;G;E;S;asymetrique_jambe_thorax;3;1;4;1;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;1;0;1;0;0;0
+679;South sector;IID;1_5;G;O;Sol;Jambes;5;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;2;1;0;0;0;1;0;0;0;0
+681;South sector;IID-IIIA1;1_5;G;SE;O;asymetrique_jambe_thorax;4;1;3;1;1;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0
+686;South sector;IID;1_5;G;S;O;tete;2;1;2;1;0;1;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;1;1;1;0;0;0
+687;South sector;IIIA1;1_5;G;SE;NO;asymetrique_jambe_tete ;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+688;South sector;IID;1_5;Dos;NE;Sol;thorax;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;4;1;0;0;0;0;0;0;0;0
+689;South sector;IIIA1;1_5;G;SO;SO;asymetrique_jambe_thorax;5;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+690;South sector;IID-IIIA1;1_5;G;E;O;asymetrique_jambe_tete ;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+701;South sector;IID-IIIA1;1_5;G;E;O;asymetrique_jambe_thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+715;South sector;IIIA1;1_5;G;SE;O;asymetrique_jambe_tete ;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+720;South sector;IIIA1-A2;1_5;G;SE;O;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+722;South sector;IIIA2;1_5;G;SE;O;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+723;South sector;IIIA2;1_5;G;SE;O;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+725;South sector;IID-IIIA2;1_5;G;SE;Sol;asymetrique_jambe_thorax;3;1;2;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+726;South sector;IIIA1-A2;1_5;Dos;SE;NO;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+731;South sector;IID-IIIA2;1_5;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+732;South sector;IIIA2-IIIC;1_5;D;O;Sol;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+738;South sector;IIIA1-A2;1_5;G;S;N;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+739;South sector;IIIA2;1_5;Ventre;SE;SO;tete;3;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+749;South sector;IIIA2;1_5;G;SE;Sol;tete;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+752;South sector;IIIA2;1_5;G;SE;NO;tete;4;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;1;13;1;0;0;0;1;0;0;0;0
+753;South sector;IIIA1-A2;1_5;G;SO;Sol;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+754;South sector;IIIA1-A2;1_5;G;SE;S;tete;3;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;1;4;1;0;0;0;0;0;0;0;0
+755;South sector;IIIA1-A2;1_5;D;SE;NE;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+756;South sector;IIIA2;1_5;Ventre;SE;SO;asymetrique_jambe_tete ;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+760;South sector;IIIA1-A2;1_5;Ventre;SE;Sol;tete;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;11;1;0;1;0;0;0;0;0;0
+761;South sector;IIIA1-A2;1_5;Dos;E;S;asymetrique_jambe_thorax;4;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+762;South sector;IIIA2;1_5;G;SE;O;tete;3;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+763;South sector;IIIA2;1_5;G;SE;Sol;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+771;South sector;IIIA1;1_5;Dos;SE;NE;asymetrique_thorax_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;0;0;0;0;0;0;0;0
+773;South sector;IIIA1-A2;1_5;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+780;South sector;IIIA1-A2;1_5;G;SE;Sol;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+800;South sector;IIIA2;1_5;G;SO;NO;asymetrique_thorax_tete ;6;1;3;1;1;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;1;0;0;0
+810;South sector;IIIA1;1_5;G;SE;SO;tete;3;1;7;1;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;1;0;0;0
+813;South sector;IIIA1;1_5;G;SO;E;Jambes;4;1;4;0;0;0;0;0;1;0;0;0;0;0;0;0;1;3;1;0;0;1;1;1;0;0;0
+815;South sector;IIIA1;1_5;G;SE;NO;asymetrique_jambe_tete ;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+817;South sector;IIIA1;1_5;D;E;Sol;asymetrique_thorax_tete ;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+821;South sector;IIIA1-A2;1_5;G;SE;Sol;Jambes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+825;South sector;IID-IIIA2;1_5;G;SE;SO;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;5;1;0;0;0;0;0;0;0;0
+826;South sector;IID;1_5;D;SE;NE;thorax;4;1;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+827;South sector;IID;1_5;G;SE;NO;asymetrique_jambe_thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+828;South sector;IID;1_5;G;E;NO;asymetrique_thorax_tete ;3;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+830;South sector;IIIA1;1_5;Ventre;O;Sol;asymetrique_jambe_tete ;5;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+832;South sector;IIIA2;1_5;D;O;S;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+834;South sector;IIIA2;1_5;G;E;NO;tete;4;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+836;IIID/3e dyn;IIID/3e dyn;1_5;Dos;SO;N;thorax;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+851;IIID/3e dyn;IIID/3e dyn;1_5;D;E;Ciel;asymetrique_thorax_tete ;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+852;IIID/3e dyn;IIID/3e dyn;1_5;D;SE;N;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+857;IIID/3e dyn;IIID/3e dyn;1_5;G;SE;O;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+859;IIID/3e dyn;IIID/3e dyn;1_5;D;O;NE;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+867;IIID/3e dyn;IIID/3e dyn;1_5;G;O;Sol;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;1;0;0;0;0
+871;3e dyn;3e dyn;1_5;G;O;Ciel;Jambes;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+890;3e dyn;3e dyn;1_5;Dos;O;NE;asymetrique_thorax_tete ;2;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+901;3e dyn;3e dyn;1_5;Ventre;SO;Sol;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+916;IIID/3e dyn;IIID/3e dyn;1_5;G;O;O;asymetrique_jambe_thorax;2;1;2;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+920;IIID/3e dyn;IIID/3e dyn;1_5;G;O;E;Jambes;5;1;3;0;0;0;0;0;1;1;0;0;0;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+921;3e dyn;3e dyn;1_5;Dos;E;Ciel;asymetrique_thorax_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+934;IIID/3e dyn;IIID/3e dyn;1_5;D;SE;Sol;Jambes;4;1;2;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+935;IIID/3e dyn;IIID/3e dyn;1_5;D;NE;O;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+941;3e dyn;3e dyn;1_5;Ventre;S;Sol;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0
+942;IIID/3e dyn;IIID/3e dyn;1_5;G;N;SE;asymetrique_thorax_tete ;3;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+955;IIID/3e dyn;IIID/3e dyn;1_5;Assis;O;Sol;asymetrique_jambe_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+963;IIID/3e dyn;IIID/3e dyn;1_5;Dos;NO;SE;asymetrique_thorax_tete ;2;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+966;South sector;IIIA2;1_5;G;SE;O;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+968;South sector;IIIA1-A2;1_5;Dos;S;SO;thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+970;South sector;IIIA2;1_5;G;SE;O;thorax;4;1;6;1;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;1;1;1;0;0
+971;South sector;IID-IIIA2;1_5;G;S;SO;tete;3;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+973;South sector;IIIA1-A2;1_5;G;SE;O;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+974;South sector;IIIA1-A2;1_5;G;S;Sol;thorax;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;0;1;0;0;0;0;0;0
+976;South sector;IIIA1-A2;1_5;G;SE;NO;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0
+977;South sector;IIIA2;1_5;G;SE;O;tete;2;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;3;0;1;0;0;1;0;0;0;0
+981;3e dyn;3e dyn;1_5;Ventre;O;Sol;thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+986;3e dyn;3e dyn;1_5;G;N;E;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+996;3e dyn;3e dyn;1_5;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+600_B;IIIA1-A2;IIIA1-A2;1_5;G;E;SE;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+166;1e dyn;IIIC/IIID;5_10;G;S;SO;thorax;5;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;1
+397;1e dyn;IIIC/IIID;5_10;Ventre;E;NO;thorax;3;1;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0
+398;3e dyn;3e dyn;5_10;Ventre;SE;Sol;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+400;3e dyn;3e dyn;5_10;Agenouille;S;sol;asymetrique_jambe_tete ;6;1;5;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;0;1;1;0
+485;IIID/3e dyn;IIID/3e dyn;5_10;Dos;N;NE;asymetrique_jambe_tete ;3;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+501;South sector;IID-IIIA1;5_10;G;SE;Sol;asymetrique_jambe_thorax;3;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;1;0;1;0;0;0;0
+514;South sector;IIIA2;5_10;Ventre;SE;Sol;tete;2;1;2;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+515;South sector;IID-IIIA2;5_10;G;S;NO;tete;5;1;3;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+520;South sector;IIC-IIIA1;5_10;G;SE;S;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+523;South sector;IIIA1-A2;5_10;G;S;O;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+534;South sector;IIIA2;5_10;G;E;S;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+538;South sector;IIIA2;5_10;Dos;S;NE;thorax;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+543;South sector;IIIA2;5_10;G;SE;SO;tete;3;1;9;0;0;1;0;0;0;0;0;0;1;0;1;0;1;6;1;0;0;0;0;1;1;0;0
+545;South sector;IIIA2;5_10;G;SE;Sol;asymetrique_jambe_tete ;3;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+553;South sector;IIIA1-A2;5_10;G;SE;O;tete;3;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+556;South sector;IIIA2;5_10;G;SE;O;tete;2;1;3;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+562;South sector;IIIA2;5_10;G;S;Sol;tete;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+595;South sector;IIIA1-A2;5_10;G;SE;Sol;tete;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+635;South sector;IIIA1-A2;5_10;Ventre;SE;Sol;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+639;South sector;IIIA1-A2;5_10;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+650;South sector;IIIC;5_10;G;SE;O;tete;3;1;4;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+657;South sector;IIIA1;5_10;Ventre;S;Sol;tete;3;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+735;South sector;IIIA2;5_10;G;SE;Sol;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+765;South sector;IID-IIIA2;5_10;G;S;Sol;thorax;2;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+823;South sector;IID-IIIA2;5_10;G;SE;SO;Jambes;3;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+824;South sector;IID-IIIA2;5_10;G;S;O;asymetrique_jambe_thorax;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;1;0;0;0
+840;IIID/3e dyn;IIID/3e dyn;5_10;D;NO;Sol;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+861;IIID/3e dyn;IIID/3e dyn;5_10;Dos;NO;NE;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+878;IIID/3e dyn;IIID/3e dyn;5_10;Ventre;O;SO;asymetrique_jambe_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+886;3e dyn;3e dyn;5_10;D;N;E;thorax;3;1;3;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+924;IIID/3e dyn;IIID/3e dyn;5_10;D;O;S;asymetrique_thorax_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+943;IIID/3e dyn;IIID/3e dyn;5_10;G;NO;SE;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+987;3e dyn;3e dyn;5_10;D;N;Sol;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+600_A;South sector;IIIA1-A2;5_10;G;E;SE;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+410;3e dyn;3e dyn;0_1;Ventre;S;Sol;asymetrique_jambe_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;0;0;0;0;0;0;0;0;1;1;0
+443;South sector;IIIA2-IIID;0_1;Ventre;E;NE;tete;3;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;0;1;1;0;1;1;0;0;0
+456;IIID;IIID;0_1;G;SE;SO;asymetrique_jambe_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+489;IIID/3e dyn;IIID/3e dyn;0_1;Assis;E;Sol;Jambes;2;1;2;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+493;IIID/3e dyn;IIID/3e dyn;0_1;Ventre;NO;Sol;asymetrique_jambe_tete ;2;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+495;South sector;IIIA2;0_1;G;SE;O;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;1;0;0;1;0;1;0;0;0
+497;South sector;IIIA1-A2;0_1;G;SE;NO;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+499;South sector;IIIA2;0_1;Dos;SO;SE;tete;2;1;3;1;1;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+505;South sector;IIIA1-A2;0_1;Dos;O;S;thorax;4;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+509;South sector;IID-IIIA2;0_1;Dos;SE;S;Jambes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+511;South sector;IIIA1-A2;0_1;D;O;S;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+513;South sector;IIIA1-A2;0_1;Ventre;N;Sol;asymetrique_thorax_tete ;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+517;South sector;IIIA1-A2;0_1;G;SE;O;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+521;South sector;IIIA1-A2;0_1;G;SE;O;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+525;South sector;IIIA2;0_1;G;S;O;thorax;2;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+527;South sector;IIIA1;0_1;G;SE;O;Jambes;2;1;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+529;South sector;IIIA1;0_1;G;S;O;Jambes;3;1;2;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+542;South sector;IIIA1-A2;0_1;G;SE;O;Jambes;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;10;1;0;1;0;1;1;0;0;0
+561;South sector;IIIA2;0_1;G;SE;O;thorax;3;1;3;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+563;South sector;IIIA2;0_1;G;SO;Sol;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+564;South sector;IIIA1-A2;0_1;G;S;O;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+572;South sector;IIIA1-A2;0_1;D;S;Sol;Jambes;3;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+574;South sector;IID;0_1;Assis;E;O;Jambes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0
+575;South sector;IIIA2;0_1;G;SE;O;asymetrique_thorax_tete ;3;1;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+580;South sector;IID-IIIA1;0_1;G;S;E;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0
+589;South sector;IIIA1-A2;0_1;Dos;SE;NO;asymetrique_jambe_thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;4;1;0;0;0;0;0;0;0;0
+594;South sector;IIIA1-A2;0_1;Dos;SE;NE;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+610;South sector;IID;0_1;D;SE;Sol;tete;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;8;1;0;1;0;0;0;0;0;0
+613;South sector;IIC-IID;0_1;G;SE;N;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+623;South sector;IIC-IID;0_1;D;SE;NE;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+627;South sector;IIIA1;0_1;D;S;Sol;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+628;South sector;IID-IIIA1;0_1;G;O;Sol;thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+632;South sector;IIIA1;0_1;G;SE;NO;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;1;0;0;0
+645;South sector;IID-IIIA2;0_1;G;SE;Sol;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;1;0;0;0;0;0;0
+651;South sector;IIIA1-A2;0_1;D;NO;SE;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+654;South sector;IIIA1-A2;0_1;Dos;S;NO;asymetrique_jambe_thorax;3;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+658;South sector;IIIA1;0_1;D;SE;E;thorax;4;1;2;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+659;South sector;IIIA1;0_1;G;SE;SO;asymetrique_jambe_thorax;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+680;South sector;IID;0_1;Ventre;SE;SE;thorax;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+682;South sector;IID-IIIA1;0_1;Dos;NO;SO;thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0
+692;South sector;IIIA2;0_1;G;E;SE;thorax;3;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;1;1;0;0;1;0;1;0;0;0
+702;South sector;IID-IIIA1;0_1;G;SE;SO;thorax;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+705;South sector;IIIA1;0_1;Ventre;E;Sol;thorax;3;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0
+706;South sector;IID-IIIA1;0_1;Dos;NO;NE;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+707;South sector;IIIA1;0_1;G;SE;S;tete;3;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+708;South sector;IIIA1;0_1;D;S;E;Jambes;3;1;3;1;0;0;0;0;1;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0
+709;South sector;IIC;0_1;G;SE;S;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+716;South sector;IID-IIIA1;0_1;G;SE;O;asymetrique_jambe_thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+718;South sector;IIIA2;0_1;Dos;E;O;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+721;South sector;IIIA1-A2;0_1;Ventre;SE;E;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+724;South sector;IIIA1-A2;0_1;G;SE;NO;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+727;South sector;IIIA1-A2;0_1;Ventre;SE;sol;asymetrique_thorax_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+728;South sector;IIIA1-A2;0_1;G;SE;Sol;thorax;4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0
+733;South sector;IIIA2;0_1;G;S;O;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+734;South sector;IIIA2;0_1;G;O;N;Jambes;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+736;South sector;IIIA1-A2;0_1;Ventre;N;Sol;asymetrique_jambe_tete ;4;1;1;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+737;South sector;IIIA2;0_1;Dos;S;O;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0
+740;South sector;IIIA2-IIIC;0_1;Ventre;SE;E;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+742;South sector;IIIA1-A2;0_1;G;SE;SO;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+743;South sector;IIIA1-A2;0_1;G;SE;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+748;South sector;IIIA1-A2;0_1;D;SE;E;Jambes;3;1;5;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+758;South sector;IIIA1-A2;0_1;Ventre;SE;O;asymetrique_jambe_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+759;South sector;IIIA1-A2;0_1;G;SE;Sol;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;5;1;1;0;0;0;0;0;0;0
+766;South sector;IIIA2;0_1;G;SE;NO;asymetrique_jambe_tete ;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+777;South sector;IIIA1-A2;0_1;Ventre;SE;Sol;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+799;South sector;IIIA2;0_1;Dos;O;Sol;asymetrique_jambe_thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+801;South sector;IIIA2-IIIC;0_1;G;SE;O;thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+803;South sector;IIIA1-A2;0_1;G;SE;NO;asymetrique_jambe_thorax;2;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+818;South sector;IIIA1;0_1;G;S;Sol;Jambes;3;1;2;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+819;South sector;IIIA1-A2;0_1;G;SE;O;Jambes;4;1;2;1;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;1;0;0;0
+822;South sector;IIIA1;0_1;G;NE;N;Jambes;4;1;3;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0
+829;South sector;IIIA1;0_1;G;SE;NO;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+853;IIID/3e dyn;IIID/3e dyn;0_1;G;SE;SO;asymetrique_jambe_thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+854;IIID/3e dyn;IIID/3e dyn;0_1;G;N;E;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+875;3e dyn;3e dyn;0_1;D;NO;O;Jambes;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+894;IIID/3e dyn;IIID/3e dyn;0_1;D;S;O;tete;3;1;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0
+903;IIID;IIID;0_1;G;SE;O;thorax;5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+906;IIID/3e dyn;IIID/3e dyn;0_1;Dos;SE;SO;tete;6;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+908;South sector;IIIA2-IIID;0_1;D;O;NE;asymetrique_jambe_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+913;3e dyn;3e dyn;0_1;Ventre;NO;Sol;asymetrique_jambe_thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+933;IIID/3e dyn;IIID/3e dyn;0_1;Ventre;S;SE;thorax;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+939;IIID/3e dyn;IIID/3e dyn;0_1;D;NE;O;asymetrique_thorax_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+984;3e dyn;3e dyn;0_1;G;SO;Sol;asymetrique_jambe_tete ;3;1;1;1;0;0;0;0;0;0;0;0;0;0;10;0;1;1;1;0;0;0;0;0;1;0;0
+161;IIID/3e dyn;IIID/3e dyn;sup 12;G;S;SO;tete;5;1;9;0;0;0;0;0;0;0;0;1;0;0;1;0;1;1;0;0;0;1;1;1;0;0;0
+164;IIID/3e dyn;IIID/3e dyn;sup 12;G;S;O;tete;3;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+168;IIID/3e dyn;IIID/3e dyn;sup 12;D;S;E;asymetrique_jambe_tete ;2;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+447;IIID/3e dyn;IIID/3e dyn;sup 12;G;SE;Sol;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+452;IIID/3e dyn;IIID/3e dyn;sup 12;G;S;O;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+454;IIID/3e dyn;IIID/3e dyn;sup 12;G;S;SO;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+469;IIID/3e dyn;IIID/3e dyn;sup 12;D;S;N;asymetrique_jambe_thorax;3;1;16;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
+471;IIID/3e dyn;IIID/3e dyn;sup 12;Dos;N;SE;asymetrique_jambe_thorax;3;1;19;0;0;0;0;0;0;0;0;0;0;0;0;0;1;2;1;0;0;0;0;0;0;0;0
+473;IIID/3e dyn;IIID/3e dyn;sup 12;D;NO;SO;asymetrique_thorax_tete ;4;1;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+476;IIID/3e dyn;IIID/3e dyn;sup 12;Ventre;S;Sol;tete;3;1;32;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0
+488;IIID/3e dyn;IIID/3e dyn;sup 12;Assis;SO;Sol;asymetrique_jambe_thorax;2;1;2;1;0;0;1;0;0;0;0;0;0;0;1;0;1;6;1;1;0;0;1;0;0;0;0
+554;South sector;IIIA2;sup 12;G;S;Sol;tete;3;1;4;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0
+750;South sector;IID-IIIA2;sup 12;G;S;NO;tete;5;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+833;South sector;IIIA2;sup 12;G;O;NO;asymetrique_jambe_thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+837;IIID/3e dyn;IIID/3e dyn;sup 12;G;S;O;tete;6;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;3;1;0;0;0;1;1;0;0;0
+843;IIID/3e dyn;IIID/3e dyn;sup 12;G;SE;NO;asymetrique_thorax_tete ;4;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;3;1;0;0;0;0;0;0;0;0
+845;IIID/3e dyn;IIID/3e dyn;sup 12;Assis;O;Sol;asymetrique_thorax_tete ;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+850;IIID/3e dyn;IIID/3e dyn;sup 12;G;O;Sol;tete;3;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+868;IIID/3e dyn;IIID/3e dyn;sup 12;D;E;NO;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;1;0;0;0;0
+869;IIID/3e dyn;IIID/3e dyn;sup 12;G;O;N;asymetrique_thorax_tete ;4;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+873;IIID/3e dyn;IIID/3e dyn;sup 12;D;NO;Sol;asymetrique_thorax_tete ;4;1;1;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+874;IIID/3e dyn;IIID/3e dyn;sup 12;D;N;SO;asymetrique_jambe_thorax;11;1;4;0;0;0;0;0;0;0;1;0;0;0;4;0;1;1;1;0;0;0;0;0;0;0;0
+876;3e dyn;3e dyn;sup 12;D;NO;SO;Jambes;3;1;3;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0
+882;3e dyn;3e dyn;sup 12;G;N;O;asymetrique_jambe_thorax;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+888;3e dyn;3e dyn;sup 12;Ventre;N;Sol;asymetrique_thorax_tete ;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+895;IIID/3e dyn;IIID/3e dyn;sup 12;Dos;SE;O;thorax;3;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+907;IIID;IIID;sup 12;G;S;NO;tete;5;1;1;0;0;0;0;0;0;0;1;0;0;0;1;0;1;1;0;0;0;0;0;1;0;0;0
+917;IIID/3e dyn;IIID/3e dyn;sup 12;G;NO;Sol;tete;2;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+940;IIID/3e dyn;IIID/3e dyn;sup 12;D;O;SE;tete;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+954;IIID/3e dyn;IIID/3e dyn;sup 12;D;NO;O;thorax;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+980;IIID/3e dyn;IIID/3e dyn;sup 12;Dos;NO;E;asymetrique_thorax_tete ;4;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0
+983;IIID/3e dyn;IIID/3e dyn;sup 12;Dos;NO;Sol;tete;3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+985;3e dyn;3e dyn;sup 12;G;NO;Sol;asymetrique_jambe_thorax;4;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0
+994;IIID/3e dyn;IIID/3e dyn;sup 12;G;N;Sol;asymetrique_jambe_thorax;3;1;2;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+997;3e dyn;3e dyn;sup 12;D;E;Sol;Jambes;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+998;3e dyn;3e dyn;sup 12;G;N;NE;tete;3;1;2;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+466-B;IIID/3e dyn;IIID/3e dyn;sup 12;Dos;S;Sol;thorax;4;1;21;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0
